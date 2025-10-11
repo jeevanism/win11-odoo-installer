@@ -26,7 +26,7 @@ The script guides you through the following streamlined workflow:
 ***Note:** PostgreSQL database installation and configuration must be handled separately.*
 
 ### Screenshots : 
-![installation prompt](https://github.com/jeevanism/win-odoo-installer/blob/main/assets/win_odoo_installer.gif)
+![installation prompt](https://github.com/jeevanism/win11-odoo-installer/blob/main/assets/win_odoo_installer.gif)
 
-![post-installation](https://github.com/jeevanism/win-odoo-installer/blob/main/assets/post_install_msg.png)
-![odoo-starting-up](https://github.com/jeevanism/win-odoo-installer/blob/main/assets/post-install-2.png)
+![post-installation](https://github.com/jeevanism/win11-odoo-installer/blob/main/assets/post_install_msg.png)
+![odoo-starting-up](https://github.com/jeevanism/win11-odoo-installer/blob/main/assets/post-install-2.png)
