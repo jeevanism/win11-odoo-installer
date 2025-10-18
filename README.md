@@ -2,9 +2,13 @@
 
 This installer script **simplifies and accelerates** your Odoo setup by handling complex dependencies and configuration steps, making the entire installation process smooth and fast.
 
+### UPDATE - Added a Gnu/Linux Shell installer which has same features are Win11 Installer
 ---
 
-## ✨ Key Benefits
+
+---
+
+## ✨ Key Benefits  
 
 | Feature | Description |
 | :--- | :--- |
